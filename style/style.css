@@ -295,7 +295,11 @@
     margin-top: 25px;
 }
 
-.product-list .heading>h1 {}
+.product-list .heading>h1 {
+    font-size: 27px;
+    color: #615e58;
+    font-weight: 300;
+}
 
 .product-list .product {
     width: 70%;
@@ -331,3 +335,6 @@
     color: black;
 }
 
+.promo-2nd{
+    margin-top: 20px;
+}
