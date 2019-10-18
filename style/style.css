@@ -334,7 +334,47 @@
     font-size: 22px;
     color: black;
 }
+/* product-list end */
 
 .promo-2nd{
     margin-top: 20px;
 }
+
+/* promo-2nd end */
+.order-slide-header{
+    margin-top: 25px;
+    text-align: center;
+}
+.order-slide-header>h1{
+    font-size: 27px;
+    color: #615e58;
+    font-weight: 300;
+}
+
+
+
+
+.order-slide{
+    margin-top: 65px;
+}
+.carousel-indicators{
+    left: 450px;
+}
+.order-slide .carousel .carousel-indicators li{
+    height: 10px;
+    width: 10px;
+    background: #DDDDDD;
+    border-radius: 50%;
+    box-sizing: border-box;
+    border: none;
+}
+.order-slide .carousel .carousel-indicators li.active{
+  
+    position: relative;
+    background-color: red;
+    
+}
+/* rder-slide end */
+
+
+
