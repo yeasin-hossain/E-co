@@ -88,14 +88,7 @@
     border-left: solid 1px #615E58;
 }
 
-/* .nav-2 .help-desk::after {
-    content: "";
-    height: 50px;
-    width: 1px;
-    background: rgb(129, 124, 114);
-    position: absolute;
-    left: 12px;
-} */
+
 
 .nav-2 .help-desk>a {
     line-height: 3;
@@ -127,14 +120,7 @@
     border-left: solid 1px #615E58;
 }
 
-/* .nav-2 .language::after {
-    content: "";
-    height: 50px;
-    width: 1px;
-    background: rgb(129, 124, 114);
-    position: absolute;
-    left: 160px;
-} */
+
 
 .nav-2 .language>a {
     line-height: 3;
