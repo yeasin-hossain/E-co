@@ -367,7 +367,16 @@
 }
 
 /* order-slide end */
-
+.special-offer{}
+.special-offer .heading{
+    margin: 50px 0px;
+    display: block;
+    text-align: center;
+}
+.special-offer .heading>h1{
+    font-size: 30px;
+    font-weight: 200;
+}
 
 .card {
     position: relative;
@@ -512,3 +521,5 @@
     text-decoration: none;
     color: #5E5E5E;
 }
+
+/* order-slide end */
